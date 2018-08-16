@@ -2,8 +2,8 @@
   width: 25%;
   float: left;
   background-color: #AA6B39;
-  margin: 2px
-  
+  margin: 2px;
+  padding: 6px;
 }
 
 .banner {
@@ -19,4 +19,5 @@ body {
 h1 {
   font-size: 30px;
   color: #2E4372;
+  text-align: center;
 }
