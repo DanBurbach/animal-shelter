@@ -1,0 +1,22 @@
+.column {
+  width: 25%;
+  float: left;
+  background-color: #AA6B39;
+  margin: 2px
+  
+}
+
+.banner {
+  text-align: center;
+  color: #E7BE00;
+  background-color: #E76700;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  color: #2E4372;
+}
