@@ -9,7 +9,7 @@ A single page HTML site using gifs as images for adoptable animals.
 
 ### To use:
 
-git clone
+git clone https://github.com/DanBurbach/animal-shelter.git
 
 double click on animalshelter.html
 
