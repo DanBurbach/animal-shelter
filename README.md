@@ -11,7 +11,7 @@ A single page HTML site using gifs as images for adoptable animals.
 
 git clone
 
-double click on html file in main folder
+double click on animalshelter.html
 
 ### __Version__
 
